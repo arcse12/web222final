@@ -1,0 +1,49 @@
+/******************************************************************** 
+I declare that my assignment is wholly my own work in accordance with Seneca Academic Policy.
+No part of this assignment has been copied manually or electronically from any other source (including web sites)
+except for the information supplied by the WEB222 instructors and / or made available in this assignment for my use.
+I also declare that no part of this assignment has been distributed to other students.
+Name: Zi Feng Kong  Dated:2020/03/20
+********************************************************************/
+@media(max-width: 960px){
+
+    img{max-width: 100%;height:auto;width:auto\9;}
+}
+body{ 
+    width: 100%;
+    margin: 0 auto;
+    background-image: url('https://www.sitec.com.my/wp-content/uploads/2016/04/ecommerce-shopping-retail-ss-1920.jpg'); 
+    background-size: cover;
+    position: absolute;
+}
+nav{
+    text-align: center;
+    word-spacing: 100pt;
+    padding: 8px 50px;
+    background-color:  #e74c3c;
+    color: #030000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20pt;
+}
+h1{ 
+    font-size:70pt;
+    text-align: center;
+    color: 	rgb(12, 11, 0);
+ }
+h2{
+    font-size: 15pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p2{ 
+    font-size: 60pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.footer {
+    flex-shrink: 0;
+    padding: 20px;
+  }
+p1{
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  white-space: normal;
+}
